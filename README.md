@@ -6,8 +6,8 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Python
-- 🌱 I’m currently learning Cloud Computing
-- 👯 I’m looking to collaborate on Python and cloud Computing
+- 🌱 I’m currently learning AI
+- 👯 I’m looking to collaborate on Python and AI
 - 🤔 I’m looking for help with Python
 - 💬 Ask me about my learning journey
 - 📫 How to reach me: mehergcufly@gmail.com
